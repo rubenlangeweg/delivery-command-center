@@ -6,6 +6,12 @@ Built with TanStack Start, TypeScript, and Tailwind CSS.
 
 ---
 
+> **👋 New here?** Read **[START_HERE.md](START_HERE.md)** for 30-second orientation.  
+> **🤖 AI Agent?** Go straight to **[CONTRIBUTING.md](CONTRIBUTING.md)** for complete onboarding.  
+> **📚 Browse all docs:** See **[DOCUMENTATION_INDEX.md](DOCUMENTATION_INDEX.md)**
+
+---
+
 ## 🎯 What This Solves
 
 **The EUR 118K Question:**
